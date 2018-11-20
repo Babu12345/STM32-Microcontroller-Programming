@@ -1,0 +1,2 @@
+# STM32-Microcontroller-Programming
+I created this code to interface with the STM32F405 registers in order to access multiple peripherals including a microphone, speaker, camera, display, and an SD card. It includes multiple header files and a main.cpp file that writes to the SD card. If you have any questions on the interface or which pin I used please contact me. The interface IDE that I used was Eclipse. Thanks.
